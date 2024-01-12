@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/mbilal_2004" target="blank"><img src="https://img.shields.io/twitter/follow/mbilal_2004?logo=twitter&style=for-the-badge" alt="mbilal_2004" /></a> </p>
 
+<img align="right" alt="Coding GIF" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
 - 🌱 I’m currently learning **Node.js**
 
 - 👯 I’m looking to collaborate on **Github**
