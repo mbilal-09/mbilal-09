@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbilal-09" alt="mbilal-09" /></a> </p>
 
+<img align="right" alt="Coding GIF" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
 <p align="left"> <a href="https://twitter.com/mbilal_2004" target="blank"><img src="https://img.shields.io/twitter/follow/mbilal_2004?logo=twitter&style=for-the-badge" alt="mbilal_2004" /></a> </p>
 
 - 🌱 I’m currently learning **TypeScript**
