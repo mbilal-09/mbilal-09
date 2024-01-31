@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/mbilal_2004" target="blank"><img src="https://img.shields.io/twitter/follow/mbilal_2004?logo=twitter&style=for-the-badge" alt="mbilal_2004" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript and React Native.**
 
 - 👨‍💻 All of my projects are available at [https://mbilal.vercel.app](https://mbilal.vercel.app)
 
